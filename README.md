@@ -22,13 +22,13 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Slacky300/WomenSafetyHackathonApp.git
+   git clone https://github.com/Vivek87077/Women_Safety_Web_App.git
    ```
 
 ## Navigate to the project directory:
 
  ```bash
-  cd BVP_HACKATHON
+  cd Project_Name
 ```
 ## Install server dependencies:
 
